@@ -4,6 +4,7 @@
       <mapping pattern="bottom_nav_text_color_state" type="PLAIN_TEXT" />
       <mapping pattern="menu_usersite" type="PLAIN_TEXT" />
       <mapping pattern="include_product_toolbar" type="PLAIN_TEXT" />
+      <mapping pattern="action_refresh_ongoing" type="XML" />
     </extensionMap>
   </component>
 </application>
