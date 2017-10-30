@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File '[AndroidMyHomeV3] - .../src/whiteLabelCam/java/uk/co/centrica/hive/whitelabel/data/smartCam/CameraP2pGatewayAdapter.java'" />
     <option name="defaultScopeName" value="File '[AndroidMyHomeV3] - .../src/whiteLabelCam/java/uk/co/centrica/hive/whitelabel/data/smartCam/CameraP2pGatewayAdapter.java'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '[AndroidMyHomeV3] - .../src/whiteLabelCam/java/uk/co/centrica/hive/whitelabel/data/smartCam/CameraP2pGatewayAdapter.java'" />
   </component>
 </application>
