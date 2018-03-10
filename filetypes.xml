@@ -6,6 +6,7 @@
       <mapping pattern="include_product_toolbar" type="PLAIN_TEXT" />
       <mapping ext="sample_qa" type="PLAIN_TEXT" />
       <mapping ext="sample_beta" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping pattern="action_refresh_ongoing" type="XML" />
     </extensionMap>
   </component>
