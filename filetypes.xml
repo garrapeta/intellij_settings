@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping pattern="menu_chatroom" type="XML" />
+      <mapping pattern="item_left_chat_bubble" type="XML" />
     </extensionMap>
   </component>
 </application>
