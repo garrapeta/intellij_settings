@@ -10,6 +10,7 @@
       <mapping pattern="item_left_chat_bubble" type="XML" />
       <mapping pattern="bg_rectangle" type="XML" />
       <mapping pattern="bg_startup" type="XML" />
+      <mapping pattern="view_bulletpoint_textview" type="XML" />
     </extensionMap>
   </component>
 </application>
