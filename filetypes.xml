@@ -6,7 +6,9 @@
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping pattern="styles_text" type="XML" />
+      <mapping pattern="selectable_switch_thumb" type="XML" />
       <mapping pattern="menu_chatroom" type="XML" />
+      <mapping pattern="selectable_switch_track" type="XML" />
       <mapping pattern="item_left_chat_bubble" type="XML" />
       <mapping pattern="bg_rectangle" type="XML" />
       <mapping pattern="bg_startup" type="XML" />
