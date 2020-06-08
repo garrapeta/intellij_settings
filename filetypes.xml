@@ -1,17 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
       <mapping pattern="bg_legibility_gradient" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
-      <mapping pattern="styles_text" type="XML" />
       <mapping pattern="selectable_switch_thumb" type="XML" />
-      <mapping pattern="menu_chatroom" type="XML" />
-      <mapping pattern="selectable_switch_track" type="XML" />
-      <mapping pattern="item_left_chat_bubble" type="XML" />
       <mapping pattern="bg_rectangle" type="XML" />
       <mapping pattern="bg_startup" type="XML" />
+      <mapping pattern="item_left_chat_bubble" type="XML" />
+      <mapping pattern="menu_chatroom" type="XML" />
+      <mapping pattern="styles_text" type="XML" />
+      <mapping pattern="selectable_switch_track" type="XML" />
       <mapping pattern="view_bulletpoint_textview" type="XML" />
     </extensionMap>
   </component>
