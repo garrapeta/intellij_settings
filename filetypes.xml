@@ -4,8 +4,8 @@
       <mapping ext="webp" type="Image" />
       <mapping pattern="bg_legibility_gradient" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
       <mapping pattern="selectable_switch_thumb" type="XML" />
       <mapping pattern="bg_rectangle" type="XML" />
       <mapping pattern="bg_startup" type="XML" />
